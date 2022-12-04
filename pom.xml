@@ -6,7 +6,7 @@
 
   <groupId>cn.java-union</groupId>
   <artifactId>iDesignPattern</artifactId>
-  <version>1.0-RELEASE</version>
+  <version>1.0.1-RELEASE</version>
   <name>iDesignPattern</name>
   <description>一个用于规范化使用设计模式的代码封装</description>
   <url>https://github.com/feiquan666/iDesignPattern</url>

@@ -9,7 +9,7 @@ public class Assert {
 	}
 
 	public static void isTrue(boolean condition, String msg) {
-		if (condition) {
+		if (!condition) {
 			throw new RuntimeException(msg);
 		}
 	}
